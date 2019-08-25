@@ -1,0 +1,26 @@
+Input Equation : AFBF+CGHB+DAFG+AEAB=BCBC
+Correct Value : {'A': 0, 'F': 1, 'B': 8, 'C': 3, 'G': 6, 'H': 7, 'D': 4, 'E': 5}
+Equation Value : 0181+3678+4016+0508=8383
+Correct Value : {'A': 0, 'F': 2, 'B': 7, 'C': 5, 'G': 9, 'H': 6, 'D': 1, 'E': 3}
+Equation Value : 0272+5967+1029+0307=7575
+Correct Value : {'A': 0, 'F': 3, 'B': 9, 'C': 2, 'G': 1, 'H': 5, 'D': 6, 'E': 7}
+Equation Value : 0393+2159+6031+0709=9292
+Correct Value : {'A': 0, 'F': 5, 'B': 9, 'C': 1, 'G': 8, 'H': 2, 'D': 6, 'E': 7}
+Equation Value : 0595+1829+6058+0709=9191
+Correct Value : {'A': 0, 'F': 6, 'B': 8, 'C': 3, 'G': 1, 'H': 2, 'D': 4, 'E': 5}
+Equation Value : 0686+3128+4061+0508=8383
+Correct Value : {'A': 0, 'F': 6, 'B': 9, 'C': 2, 'G': 8, 'H': 1, 'D': 5, 'E': 7}
+Equation Value : 0696+2819+5068+0709=9292
+Correct Value : {'A': 0, 'F': 6, 'B': 9, 'C': 5, 'G': 1, 'H': 2, 'D': 3, 'E': 7}
+Equation Value : 0696+5129+3061+0709=9595
+Correct Value : {'A': 1, 'F': 0, 'B': 8, 'C': 2, 'G': 6, 'H': 7, 'D': 3, 'E': 4}
+Equation Value : 1080+2678+3106+1418=8282
+Correct Value : {'A': 1, 'F': 4, 'B': 9, 'C': 0, 'G': 8, 'H': 2, 'D': 5, 'E': 6}
+Equation Value : 1494+0829+5148+1619=9090
+Correct Value : {'A': 1, 'F': 9, 'B': 8, 'C': 0, 'G': 5, 'H': 7, 'D': 4, 'E': 3}
+Equation Value : 1989+0578+4195+1318=8080
+Correct Value : {'A': 2, 'F': 4, 'B': 9, 'C': 0, 'G': 8, 'H': 1, 'D': 3, 'E': 5}
+Equation Value : 2494+0819+3248+2529=9090
+Correct Value : {'A': 2, 'F': 7, 'B': 9, 'C': 0, 'G': 5, 'H': 8, 'D': 3, 'E': 4}
+Equation Value : 2797+0589+3275+2429=9090
+Start Time : 2019-08-24 15:39:12 - Stop Time : 2019-08-24 18:51:27Use Time : 3:12:15.146723Run Count : 1814400
